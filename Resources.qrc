@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/informacion.png</file>
+        <file>Resources/receipt_120402.png</file>
+        <file>Resources/shop_icon-icons.com_51010.png</file>
+        <file>Resources/Factura.jpg</file>
+        <file>Resources/Icono.png</file>
+    </qresource>
+</RCC>
